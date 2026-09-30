@@ -1,0 +1,10 @@
+{
+  "contract_version": 1,
+  "request": {"mode": "event", "event_type": "salary", "customer_id": "C0001", "amount": 4200000, "channel": "push"},
+  "customers": [],
+  "results": {},
+  "decision": null,
+  "deliveries": [],
+  "previous_audience": [],
+  "llm_enabled": false
+}
