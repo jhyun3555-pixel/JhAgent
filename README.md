@@ -7,7 +7,7 @@
 Python **3.11 이상**만 있으면 됩니다. 런타임 패키지, Node.js, 외부 DB, API 키가 필요하지 않습니다.
 
 ```sh
-git clone https://github.com/jhyun3555-pixel/JhAgent.git
+git clone --branch codex/neutech-agentops https://github.com/jhyun3555-pixel/JhAgent.git
 cd JhAgent
 python3 run.py
 ```
